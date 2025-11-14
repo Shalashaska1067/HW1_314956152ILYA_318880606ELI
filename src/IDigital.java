@@ -1,3 +1,3 @@
 interface IDigital {
-	public String printCommunicationMethod();
+	String printCommunicationMethod();
 }
